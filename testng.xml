@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="first suite" verbose="2" parallel="methods" thread-count="3">
+
+    <test name="first test">
+
+
+
+
+
+    </test>
+</suite>
+
+<!--
+     <classes> <class name="basicPractise.Basic"> </class></classes>
+ <classes><class name="basicPractise.ParallelTesting"> </class></classes>
+
+ <parameter name="Name" value="MSD 07"> </parameter>
+        <classes>
+            <class name="basicPractise.Parametrisation"> </class>
+        </classes>
+ <groups>
+            <run>
+                <include name="Cars"> </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="basicPractise.Grouping"> </class>
+        </classes>
+<classes>
+<class name = "basicPractise.Basic"> </class>
+<class name="basicPractise.Priority"> </class>
+<class name ="basicPractise.Skip"> </class>
+<class name="basicPractise.DependenciesManagement"> </class>
+<class name="basicPractise.TestSuite"> </class>
+</classes> -->
